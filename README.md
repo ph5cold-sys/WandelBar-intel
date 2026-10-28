@@ -2,7 +2,7 @@
   <img src="docs/icon.png" width="136" alt="WandelBar app icon">
 </p>
 
-<h1 align="center">WandelBar</h1>
+<h1 align="center">WandelBar-Intel</h1>
 
 <p align="center">
   <strong>Build your own background for the macOS menu bar.</strong><br>
