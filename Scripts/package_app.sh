@@ -35,7 +35,7 @@ fi
 
 cd "$ROOT_DIR"
 
-swift build -c release --product WandelBar
+swift build -c release --arch x86_64 --product WandelBar
 
 # Packaging must be reproducible: do not leave resources from an older bundle behind.
 if [ -e "$APP_DIR" ]; then
